@@ -1,0 +1,9 @@
+Passos para inserir e manipular no repositorio Github:
+
+1 - Crie o reposirorio no Github com o mesmo nome de pasta que voce criar no pc
+2 - Crie ou use a pasta em um diretorio no pc
+3 - abra o bash do git no diretorio correspondente
+4 - Execute o comando git init
+5 - Execute o comando git remote add origin https://github.com/seuusuario/sua_pasta_de_reposirorio.git
+6 - Fazer configurações com: git config --global user.name "Qualquer nome" 
+                             git config --global user.email "seuemail@xpto.com.br"

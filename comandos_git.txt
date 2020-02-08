@@ -13,7 +13,11 @@ Passos para inserir e manipular no repositorio Github:
 7 - Agora é o upload no github com o comando: git push origin master. Vai pedir login e senha 
 
 
-Agora toda vez que precisar acessar o repositorio basta:
+Agora toda vez que precisar acessar o repositorio para alterações basta:
      - iniciar com git init
      - adicionar na fila com git add --all ou git add sua_pasta_ou_arquivo.xxx
      - comitar com git commit -m "sua mensagem"
+     - empurar com git push origin master
+Se por acaso haver conflitos por edições tanto no diretorio local como remoto, faça um git pull origin master
+que será concatenado os textos e então voce escolhe como será escrito
+

@@ -19,5 +19,8 @@ Agora toda vez que precisar acessar o repositorio para alterações basta:
      - comitar com git commit -m "sua mensagem"
      - empurar com git push origin master
 Se por acaso haver conflitos por edições tanto no diretorio local como remoto, faça um git pull origin master
-que será concatenado os textos e então voce escolhe como será escrito
+que será concatenado os textos e então voce escolhe como será escrito, vá no console e segue os passos:
+     - git add --all
+     - git commit -m "sua mensagem"
+     - git push origin master
 

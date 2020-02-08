@@ -7,3 +7,5 @@ Passos para inserir e manipular no repositorio Github:
 5 - Execute o comando git remote add origin https://github.com/seuusuario/sua_pasta_de_reposirorio.git
 6 - Fazer configurações com: git config --global user.name "Qualquer nome" 
                              git config --global user.email "seuemail@xpto.com.br"
+                             
+                             arquivo alterado

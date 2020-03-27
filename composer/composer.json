@@ -1,0 +1,15 @@
+{
+    "name": "witcarebr/composer",
+    "description": "Aula de php7 da udemy",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Renato Oliveira",
+            "email": "witcarerenato@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
